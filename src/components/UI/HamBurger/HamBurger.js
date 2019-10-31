@@ -1,7 +1,7 @@
 import React from 'react'
 import classes from './HamBurger.css'
 
-const hamBurger = (props) => {
+const HamBurger = (props) => {
 
     return (
 
@@ -14,4 +14,4 @@ const hamBurger = (props) => {
     )
 }
 
-export default hamBurger;
+export default HamBurger;
